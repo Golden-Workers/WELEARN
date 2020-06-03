@@ -1,2 +1,0 @@
-# acme
- responsive web page
